@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mon50)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **mon50/mon50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
